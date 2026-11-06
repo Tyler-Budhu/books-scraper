@@ -31,12 +31,8 @@ cheapest first. Bad answers are asked again, it offers to scrape again when it f
 exits. If a page fails (network error or the site layout changes), the error is printed and the other
 pages are still used.
 
-## Real OUTPUT
+<img width="1915" height="1140" alt="Screenshot 2026-11-06 160650" src="https://github.com/user-attachments/assets/78ba1873-a759-4dbd-b1a9-91ad964fd22d" />
 
-A real run against books.toscrape.com using the defaults (10 pages, up to £20, 4+ stars, 8 threads),
-then scraping again:
-
-![The scraper running in a terminal: sequential vs. concurrent timings and the cheapest matching books](screenshot.png)
 
 ## Performance impacts
 
